@@ -120,3 +120,31 @@ Drive along the river (on the right)
 
 >You will face many defeats in life, but never let yourself be defeated. *Swami Vivekananda*
 
+---
+
+# Code Fencing
+
+> A simple online pattern generator to create repeatable SVG patterns. Speed up your website without compromising on image quality. Perfect for website backgrounds, apparel, branding, packaging design and more.
+[quick-link to 
+the article on stack overflow](https://pattern.monster/)
+
+```
+<svg width="100%" height="100%">
+    
+  <!-- Let's define the pattern -->
+  <!-- The width and height should be double the size of a single checker -->
+  <pattern id="pattern-checkers" x="0" y="0" width="200" height="200" patternUnits="userSpaceOnUse">
+    <!-- Two instances of the same checker, only positioned apart on the `x` and `y` axis -->
+    <!-- We will define the `fill` in the CSS for flexible use -->
+    <rect class="checker" x="0" width="100" height="100" y="0"></rect>
+    <rect class="checker" x="100" width="100" height="100" y="100"></rect>
+  </pattern>
+  
+  <!-- Define the shape that will contain our pattern as the fill -->
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-checkers)"></rect>
+  
+</svg>
+
+```
+
+[quick-link for the snippet source.](https://css-tricks.com/snippets/svg/svg-patterns/)
