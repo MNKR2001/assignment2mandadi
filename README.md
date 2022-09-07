@@ -111,3 +111,12 @@ Drive along the river (on the right)
 |Dubai|Burj Khalifa|10 hours|
 |Paris|Eiffel Tower|7 hours|
 |London|Tower of London|8 hours|
+
+---
+
+# Quotes
+
+>Strength is Life, Weakness is Death. Expansion is Life, Contraction is Death. Love is Life, Hatred is Death. *Swami Vivekananda*
+
+>You will face many defeats in life, but never let yourself be defeated. *Swami Vivekananda*
+
