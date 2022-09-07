@@ -83,4 +83,18 @@ Drive along the river (on the right)
 
 29. Salar Jung Museum, 9FCJ+J3X, Salar Jung Rd, near Minar Function Hall, Darulshifa, Hyderabad, Telangana 500002, India
 
+* Locations to visit near Salar Jung museum
 
+  * Ramoji Film City.
+
+  * Golconda Fort.
+
+  * Chowmahalla Palace.
+
+  * Taj Falaknuma Palace.
+
+  * Wonderla Amusement Park.
+
+  * Chilkur Balaji Temple.
+
+  *Birla Mandir.
