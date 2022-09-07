@@ -97,4 +97,4 @@ Drive along the river (on the right)
 
   * Chilkur Balaji Temple.
 
-  *Birla Mandir.
+  * Birla Mandir.
