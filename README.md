@@ -100,3 +100,14 @@ Drive along the river (on the right)
   * Birla Mandir.
 
   [**Click here to know about me**](AboutMe.md)
+
+  ---
+
+  # Places to Visit
+
+|Name of the city|Important Location in this city|Amount of time to spend in the city|
+|--|---|--|
+|Hyderabad|Charminar|5 hours|
+|Dubai|Burj Khalifa|10 hours|
+|Paris|Eiffel Tower|7 hours|
+|London|Tower of London|8 hours|
